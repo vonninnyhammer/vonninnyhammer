@@ -29,7 +29,7 @@ this profile is the paper trail of how.
 
 ```
 cpu-only inference   ·   quantized models   ·   no inbound ports   ·
-pre-cgNAT networking ·   consensus over brute force   ·   debuggable everything
+pre-CGNAT networking · consensus over brute force · debuggable everything
 ```
 
 ## Also
